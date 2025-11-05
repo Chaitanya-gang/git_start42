@@ -1,3 +1,4 @@
 # git_start42
 This is my first git repo
-author- Chaitanya Gangwal
+author- Chaitanya Gangwal (is my name)
+
